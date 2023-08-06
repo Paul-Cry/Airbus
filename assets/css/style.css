@@ -1857,6 +1857,7 @@ hero area css
     text-align: left;
     position: relative;
     font-weight: 400;
+    text-align: center;
 }
 
 .search-area .search-wrapper form button i {
